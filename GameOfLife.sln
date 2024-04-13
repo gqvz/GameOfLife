@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife", "GameOfLife\GameOfLife.csproj", "{FA0B6997-7370-4E6A-B6F5-B2750A488FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelWindowSystem", "PixelWindowSystem\PixelWindowSystem.csproj", "{5300BA8B-F3E8-4B53-BA2F-1EF5A198F15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0B6997-7370-4E6A-B6F5-B2750A488FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0B6997-7370-4E6A-B6F5-B2750A488FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0B6997-7370-4E6A-B6F5-B2750A488FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0B6997-7370-4E6A-B6F5-B2750A488FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5300BA8B-F3E8-4B53-BA2F-1EF5A198F15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5300BA8B-F3E8-4B53-BA2F-1EF5A198F15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5300BA8B-F3E8-4B53-BA2F-1EF5A198F15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5300BA8B-F3E8-4B53-BA2F-1EF5A198F15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
