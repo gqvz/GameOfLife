@@ -8,7 +8,7 @@ public class GameOfLifeAppManager : IPixelWindowAppManager
 {
     public const int PixelScale = 1;
     public const int WindowWidth = 800;
-    public const int WindowHeight = 600;
+    public const int WindowHeight = 450;
     public const int Width = WindowWidth / PixelScale;
     public const int Height = WindowHeight / PixelScale;
     public const uint EditingFramerate = 500;
